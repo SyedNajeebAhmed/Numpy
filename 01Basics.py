@@ -8,6 +8,7 @@ print(a.shape, b.shape)
 print(a.dtype, b.dtype)
 print(a.itemsize, b.itemsize)
 print(a.nbytes, b.nbytes)
+print('I am bewakhhof')
 
 c = np.array([1,2,3,4,5], dtype = 'int16')
 print(c.dtype)
